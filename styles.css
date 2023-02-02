@@ -1,9 +1,14 @@
 * {
     margin: 0px;
+    background-color: aliceblue;
+}
+
+h1 {
+    background-color: khaki;
 }
 
 header {
-    background-color: aliceblue;
+    background-color: khaki;
     width: vl;
     height: 50px;
     display: flex;
