@@ -1,3 +1,16 @@
+* {
+    margin: 0px;
+}
+
+header {
+    background-color: aliceblue;
+    width: vl;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .topBar {
     width: vl;
     height: 200px;
