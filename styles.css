@@ -1,0 +1,16 @@
+.topBar {
+    width: vl;
+    height: 200px;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one .two .three .four {
+    color: red;
+}
+
+.test {
+    color: red;
+}
